@@ -3,7 +3,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 
-public class Main {
+public class EncryDecryImg {
         public static void main(String args[]){
             try{
                 File outfile = new File("src/pictures/encrypted_img18.jpg");
